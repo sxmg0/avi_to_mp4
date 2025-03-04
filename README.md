@@ -12,5 +12,9 @@ It's a bash script to convert .AVI in .MP4 video for DIGITNOW Video Grabber.
 ## How to use
 - Put original videos in src_videos directory 
 - Run the program from terminal with 
-`./convert`
+
+`
+./convert
+`
+
 Converted videos will be in the converted_videos directory.
